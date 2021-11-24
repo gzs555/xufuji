@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a30f5"],{"0120":function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"main"},[n._v("婚庆用品")])},s=[],c={},l=c,u=e("2877"),i=Object(u["a"])(l,a,s,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0a30f5.fa939383.js.map

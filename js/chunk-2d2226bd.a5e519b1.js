@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2226bd"],{cf15:function(t,n,e){"use strict";e.r(n);var l=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[t._v(" 徐福记 "),e("router-link",{attrs:{to:"detail/5"}},[t._v("555")])],1)},r=[],u={},c=u,a=e("2877"),i=Object(a["a"])(c,l,r,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d2226bd.a5e519b1.js.map
